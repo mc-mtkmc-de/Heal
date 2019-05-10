@@ -1,0 +1,8 @@
+name: Heal
+version: 0.1
+author: Tempoo50
+main: de.heal.main.Heal
+
+commands:
+   heal:
+      description:
